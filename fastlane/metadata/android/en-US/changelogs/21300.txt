@@ -1,0 +1,1 @@
+- Bati now speaks Chinese: pick it in Settings, under Language. Quests, adventures and the exercise catalogue stay in English for now.
