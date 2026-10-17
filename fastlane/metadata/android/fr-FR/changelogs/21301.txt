@@ -1,0 +1,1 @@
+- Les quêtes, les aventures et le catalogue d'exercices se lisent maintenant en chinois : titres, descriptions et l'histoire entre les étapes.
